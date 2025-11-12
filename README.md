@@ -18,3 +18,5 @@ Load the data with appropriate path configuration.
 Run the notebook cells sequentially to reproduce training, evaluation, and visualization.
 Compare model metrics to select the better performing method for your use case.
 This provides a practical reference for default risk assessment models using Python, scikit-learn, and pandas.
+
+<img width="950" height="636" alt="clipboard10" src="https://github.com/user-attachments/assets/928dde9c-ed0e-4fd9-a45e-6701e5b05610" />
